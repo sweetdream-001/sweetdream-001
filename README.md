@@ -5,7 +5,7 @@
 ## Senior Full Stack Software Engineer
 
 ### Summary
-Senior Full Stack Software Engineer with 10 years of comprehensive experience in delivering scalable web solutions and leading innovative technology projects. Demonstrated expertise in a diverse range of programming languages and frameworks, including advanced proficiency in React (with Hooks and Redux). Strong background in database management systems and a proven track record of guiding teams to deliver projects within tight deadlines in agile environments.
+Senior Full Stack Software Engineer with 6 years of comprehensive experience in delivering scalable web solutions and leading innovative technology projects. Demonstrated expertise in a diverse range of programming languages and frameworks, including advanced proficiency in React (with Hooks and Redux). Strong background in database management systems and a proven track record of guiding teams to deliver projects within tight deadlines in agile environments.
 
 ---
 
@@ -57,4 +57,4 @@ _November 2017 - July 2019_
 ### Education
 **Nanyang Technological University, Singapore**  
 _BA of Engineering, Computer Science_  
-_August 2012 – August 2017_
+_August 2014 – August 2017_
