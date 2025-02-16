@@ -1,5 +1,3 @@
-# Eric Chen
-
 ![Profile Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png)
 
 ## Senior Full Stack Software Engineer
