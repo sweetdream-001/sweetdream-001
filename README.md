@@ -36,4 +36,4 @@
 
 ![sweetdream-001 github-trophies](https://stats.dooboo.io/api/github-trophies?login=sweetdream-001)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sweetdream-001)]
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sweetdream-001)
