@@ -13,8 +13,8 @@
 - [🧠 Expertise](#expertise)
 - [🛠️ Skills](#skills)
 - [📸 Tech Stack](#tech-stack)
-- [📈 GitHub Stats](#github-stats)
 - [❤️ Why Clients Choose Me](#why-clients-choose-me)
+- [📈 GitHub Stats](#github-stats)
   
 <hr/>
 
@@ -27,7 +27,8 @@
 ### I bring both a strong technical foundation and a creative problem-solving mindset to every project. I'm now stepping into the next chapter as a co-founder, blending advanced AI with human values to build products that make a difference.
 <hr/>
 
-## 🧠 Expertise
+<h2 id="expertise">🧠 Expertise</h2>
+
 - ### AI/ML Engineering
 - ### Backend Development
 - ### Automation & Integration
@@ -37,7 +38,8 @@
 
 <hr />
 
-## 🛠️ Skills
+<h2 id="skills">🛠️ Skills</h2>
+
 - **Languages**: Python, JavaScript, TypeScript, SQL, Go, PHP, C#
 - **Frameworks**: FastAPI, Django, Flask, Node.js, Laravel, .NET Core
 - **AI/ML Tools**: OpenAI, Hugging Face, TensorFlow, PyTorch, scikit-learn, spaCy, Pandas
@@ -51,13 +53,13 @@
 
 <hr/>
 
-## 💻 Tech Stack
+<h2 id="tech-stack">📸 Tech Stack</h2>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <hr/>
 
-## ❤️ Why Clients Choose Me
+<h2 id="why-clients-choose-me">❤️ Why Clients Choose Me</h2>
 
 > I specialize in building intelligent, scalable systems that automate complexity and drive results. With over 8 years of hands-on experience, I architect and deliver full-stack solutions using Python, Node.js, FastAPI, React, and Next.js — always with clean, future-ready code.
 > My edge is automation. I design backend workflows that connect and optimize operations using tools like n8n, Zapier, HubSpot, GoHighLevel, and GPT-4 — enabling smarter CRMs, eCommerce systems, and AI-driven platforms.
@@ -71,4 +73,6 @@
    
 <hr/>
 
+<h2 id="github-stats">📈 GitHub Stats</h2>
+  
 ![sweetdream-001 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=sweetdream-001)
