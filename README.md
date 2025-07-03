@@ -18,7 +18,8 @@
   
 <hr/>
 
-## 🌟 About Me
+<h2 id="about-me">🌟 About Me</h2>
+
 ### I am a Senior AI/ML & Automation Engineer with 8+ years of experience turning complex challenges into elegant, scalable solutions. Specializing in AI integration and backend automation, I build full-stack platforms that are fast, flexible, and built for the future.
 
 ### Fluent in Python, Node.js, FastAPI, React, and Next.js, Eric also leverages tools like Zapier, n8n, HubSpot, GoHighLevel, and GPT-4 to create powerful workflows that drive efficiency and intelligent user experiences. From CRM systems that think, to real-time eCommerce sync engines, my work lives at the intersection of engineering and innovation.
