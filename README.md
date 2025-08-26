@@ -19,11 +19,15 @@
 
 <h2 id="about-me">🌟 About Me</h2>
 
-### I am a Senior AI/ML & Automation Engineer with 8+ years of experience turning complex challenges into elegant, scalable solutions. Specializing in AI integration and backend automation, I build full-stack platforms that are fast, flexible, and built for the future.
+### Hi, I’m a Senior Full Stack Developer & AI Specialist with 11+ years of experience building scalable web apps and intelligent AI solutions.
+- :computer: **Full Stack Engineering**: Expert in React.js, Angular, Node.js, Java, Python, and .NET, with a track record of delivering high-performance platforms handling 500K+ API calls/hour.
+- :cloud: **Cloud & DevOps**: Hands-on with AWS, Azure, Docker, Kubernetes, Terraform — I’ve reduced release cycles by 65–70% through automation and modern CI/CD.
+- :brain: **AI/ML Innovation**: Passionate about LLM fine-tuning, RAG architectures, and NLP (BERT, spaCy). Built AI coaching and anomaly detection systems that boosted productivity by 24% and reduced onboarding time by 33%.
+- :bar_chart: **Data & Scalability**: Designed ETL pipelines and semantic search systems with Kafka, Airflow, and Hugging Face embeddings to unlock real-time insights.
+- :closed_lock_with_key: **Enterprise-Grade Systems**: From Bloomberg trading platforms to Okta’s identity microservices and Gong’s AI-driven coaching tools, I’ve built secure, reliable, and impactful solutions at scale.
+#### :zap: **Philosophy**: I love solving complex problems at the intersection of web engineering and AI, turning cutting-edge technology into solutions that drive measurable business impact.
+#### :seedling: Currently exploring AI automation, edge computing, and scalable LLM architectures.
 
-### Fluent in Python, Node.js, FastAPI, React, and Next.js, I also leverage tools like Zapier, n8n, HubSpot, GoHighLevel, and GPT-4 to create powerful workflows that drive efficiency and intelligent user experiences. From CRM systems that think, to real-time eCommerce sync engines, my work lives at the intersection of engineering and innovation.
-
-### I bring both a strong technical foundation and a creative problem-solving mindset to every project. I'm now stepping into the next chapter as a co-founder, blending advanced AI with human values to build products that make a difference.
 <hr/>
 
 <h2 id="expertise">🧠 Expertise</h2>
@@ -40,10 +44,10 @@
 <h2 id="skills">🛠️ Skills</h2>
 
 - **Languages:**
-  - 🐍 Python, 🌐 JavaScript, 🔷 TypeScript, 📊 SQL, 🚀 Go, 💎 Ruby, 🖥️ PHP, 🔢 C#
+  - 🐍 Python, 🌐 JavaScript, 🔷 TypeScript, ☕ Java, 🟣 Kotlin, 📊 SQL, 🚀 Go, 💎 Ruby, 🖥️ PHP, 🔢 C#
 
 - **Frameworks:**
-  - 🏗️ FastAPI, ⚙️ Django, 🐍 Flask, 💻 Node.js, , 💎 Ruby on Rails, ⚙️ Laravel, 🌐 .NET Core
+  - 🏗️ FastAPI, ⚙️ Django, 🐍 Flask, 💻 Node.js, , 💎 Ruby on Rails, ⚙️ Laravel, 🌐 .NET Core, 🍃 Spring Boot
 
 - **AI/ML Tools:**
   - 🧠 OpenAI, 🌐 Hugging Face, ⚡ TensorFlow, 🔥 PyTorch, 📊 scikit-learn, 🔍 spaCy, 🧮 Pandas
