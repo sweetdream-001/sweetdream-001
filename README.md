@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
 </p>
 
-<img src="https://social-innovation.hitachi/-/media/project/hitachi/sib/en-in/knowledge-hub/techverse/ai-and-automation/automation-revolution.jpg?la=en-IN&upd=20240924064406Z&hash=009E280685CD0871F07C16D42B6D2522" />
+<img src="https://www.qsparkgroup.com/wp-content/uploads/2024/11/Enterprise-AI-Solutions-scaled.jpg" />
 <hr/>
 
 ## 📌 Table of Contents
